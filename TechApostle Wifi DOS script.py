@@ -63,7 +63,7 @@ print("\n****************************************************************")
 print("\n* Copyright of Awe Joseph Olaitan P.K.A POSH A.K.A FEMI, 2024  *")
 print("\n****************************************************************")
 
-Operation no gree for anybody seh!!!
+
 
 # If the user doesn't run the program with super user privileges, don't allow them to continue.
 if not 'SUDO_UID' in os.environ.keys():
